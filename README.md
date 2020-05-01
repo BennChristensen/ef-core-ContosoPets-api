@@ -10,7 +10,7 @@ I Visual Studio kan du oprette en forbindelse til databasen via Server explorer.
 
 Database filen er 
 
-C:\Users\**{dit brugernavn}**\ContosoPets.mdf
+C:\Users\ **{dit brugernavn}** \ContosoPets.mdf
 
 Kør AddData.sql scriptet fra ContosoPets.DataAccess projektet for at tilføje test data. 
 
